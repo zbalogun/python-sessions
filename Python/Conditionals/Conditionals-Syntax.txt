@@ -1,0 +1,38 @@
+if, if else and elif
+
+
+
+if test expression:
+    statement(s)
+
+
+
+
+if test expression:
+    Body of if
+else:
+    Body of else
+
+
+
+
+
+if test expression:
+    Body of if
+elif test expression:
+    Body of elif
+else:
+    Body of else
+
+
+#Nested
+
+if (condition1):
+   # Executes when condition1 is true
+   if (condition2):
+      # Executes when condition2 is true
+   # if Block is end here
+# if Block is end here
+
+
+
